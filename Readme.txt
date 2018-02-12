@@ -1,1 +1,1 @@
-This repository consists of the C projects.
+This repository consists of the C assignments.
